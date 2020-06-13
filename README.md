@@ -11,6 +11,6 @@
 
 For detail explaination about **Decision tree** check out my article [here](https://medium.com/next-gen-machine-learning/logistic-regression-classification-ce07a6e849ac)
 
-you can also check of decision tree implementation on different data set in my kaggle Kernel
+you can also check implementation of decision tree on different data set in my kaggle Kernel
   1. Regression Tree [here](https://www.kaggle.com/benai9916/decision-tree-regressor)
   2. Classification Tree [here](https://www.kaggle.com/benai9916/decision-tree-classifier-on-mushroom-accurate)
